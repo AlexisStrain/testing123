@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Kato Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Kato Lab** is interested in cellular responses to enviroment using microalgae and plants. We also protype and produce microalgae-based biodegradable Mardi Gras beads and biomedical products. /n Techniques used in the lab include 3D printing, behavioral cell assays, high-performance liquid chromatography (HPLC), microscopy, modeling software, and PCR. We also participate in field work during the summer.
   
   - block: collection
     content:
