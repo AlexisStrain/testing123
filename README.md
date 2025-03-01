@@ -1,3 +1,12 @@
+Notes added by Alexis:
+
+user_groups:
+          - Principal Investigator
+          - Researchers
+          - Grad Students Researchers
+          - Undergraduate Researchers
+          - Alumni
+
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
 [![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
