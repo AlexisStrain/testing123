@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Kato Lab
+        The Kato Lab
       image:
         filename: welcome.jpg
       text: |
