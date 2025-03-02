@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Jennifer Rogers
+title: Joshua Lim
 
 # Full name (for SEO)
-first_name: Jennifer 
-last_name: Rogers
+first_name: Joshua
+last_name: Lim
 
 # Username (this should match the folder name)
 authors:
-  - Jennifer
+  - Joshua
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,17 +22,17 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ...
 
 interests:
-  - Computer modelling
-  - Computational Linguistics
-  - Information Retrieval
+  - ...
+  - ....
+  - ...+
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jcagno1@lsu.edu'
+    link: 'mailto:ylim4@lsu.edu'
   #- icon: github
    # icon_pack: fab
     #link: https://github.com/gcushen
