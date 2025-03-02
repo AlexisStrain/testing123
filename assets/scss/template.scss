@@ -7,3 +7,17 @@
 .cta-group {
   justify-content: center;
 }
+
+
+/* color for toggle background when open */
+details p {
+  border-left: 1px solid #0088CC;
+  background-color: rgba(0, 136, 204, 0.1);
+}
+
+
+mark {
+  background-color: #FFA9D4; /* #FF69B4; gold; rgba(60, 144, 190, 0.1); cyan; fuchsia; lime; */
+  margin-left: 0px;
+  padding-left: 0px;
+}
