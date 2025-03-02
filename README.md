@@ -1,12 +1,13 @@
-Notes added by Alexis:
-Entire website stored in the /Content folder. 99% of editing will occur here
+This is the lab website for the Kato Lab. Hosted by HugoBlox. 
 
-All of these files are written in something called Markdown
-Any markdown. Any file ending in .md will automatically be added to the website. 
+Notes added by Alexis Strain:
+Most of website stored in the /Content folder. 99% of editing will occur here.
+
+Most of these files are written in something called Markdown
+Any file ending in .md will automatically be added to the website, apprprite links may need to be added to access the added page.
 
 When adding new person they must be placed in one of the following user_groups:
   - Principal Investigator
-  - Researchers
   - Grad Students Researchers
   - Undergraduate Researchers
   - Alumni
