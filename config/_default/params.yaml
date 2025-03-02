@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: dark
-  theme_night:
-  font: dark
+  theme_night: dark
+  font: helvetica
   font_size: M
 
 # SEO
