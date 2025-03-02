@@ -8,6 +8,7 @@
 appearance:
   theme_day: dark
   theme_night:  ''
+  color: green
   font: Helvetica
   font_size: M
 
