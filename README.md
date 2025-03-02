@@ -1,11 +1,15 @@
 Notes added by Alexis:
+Entire website stored in the /Content folder. 99% of editing will occur here
 
-user_groups:
-          - Principal Investigator
-          - Researchers
-          - Grad Students Researchers
-          - Undergraduate Researchers
-          - Alumni
+All of these files are written in something called Markdown
+Any markdown. Any file ending in .md will automatically be added to the website. 
+
+When adding new person they must be placed in one of the following user_groups:
+  - Principal Investigator
+  - Researchers
+  - Grad Students Researchers
+  - Undergraduate Researchers
+  - Alumni
 
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
