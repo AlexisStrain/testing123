@@ -7,7 +7,7 @@
 
 # Appearance
 appearance:
-  theme_day: custom
+  theme_day: tailwind
   theme_night:
   color: green
   font: native
