@@ -12,6 +12,9 @@ When adding new person they must be placed in one of the following user_groups:
   - Undergraduate Researchers
   - Alumni
 
+to add citations:
+anytime .bib file is added to the main repostiory, it will automatically be added to the webpage. 
+
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
 [![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
