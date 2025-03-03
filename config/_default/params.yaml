@@ -5,10 +5,10 @@
 
 # Appearance
 
+# Appearance
 appearance:
-  theme_day: theme2
-  #theme_night: GREEN
-  color: theme2
+  mode: system
+  color: blue
   font: minimal
   font_size: M
 
