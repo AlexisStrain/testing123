@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: GREEN
+  theme_day: green
   #theme_night: GREEN
-  color: GREEN
+  color: green
   font: minimal
   font_size: M
 
