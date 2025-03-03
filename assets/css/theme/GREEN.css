@@ -2,13 +2,13 @@
 :root {
   --color-primary-50: 0 0 0;
   --color-primary-100: 0 0 0;
-  --color-primary-200: 187 247 208;
-  --color-primary-300: 134 239 172;
-  --color-primary-400: 74 222 128;
-  --color-primary-500: 34 197 94;
-  --color-primary-600: 22 163 74;
-  --color-primary-700: 21 128 61;
-  --color-primary-800: 22 101 52;
-  --color-primary-900: 20 83 45;
-  --color-primary-950: 5 46 22;
+  --color-primary-200: 0 0 208;
+  --color-primary-300: 0 0 172;
+  --color-primary-400: 0 0 128;
+  --color-primary-500: 0 0 94;
+  --color-primary-600: 0 0 74;
+  --color-primary-700: 0 0 61;
+  --color-primary-800: 0 0 52;
+  --color-primary-900: 0 0 45;
+  --color-primary-950: 5 0 22;
 }
