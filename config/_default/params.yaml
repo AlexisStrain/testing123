@@ -7,10 +7,11 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: blue
-  font: minimal
-  font_size: M
+  theme_day: minimal
+  theme_night:
+  color: green
+  font: native
+  font_size: L
 
 # SEO
 
