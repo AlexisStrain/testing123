@@ -7,6 +7,7 @@
 
 # Appearance
 appearance:
+  theme: green
   theme_day: green
   theme_night:
   color: green
