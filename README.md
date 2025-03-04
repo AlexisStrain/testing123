@@ -1,4 +1,4 @@
-This is the lab website for the Kato Lab. Hosted by HugoBlox. 
+This is the lab website for the Kato Lab. Hosted by HugoBlox.  
 
 Notes added by Alexis Strain:
 Most of website stored in the /Content folder. 99% of editing will occur here.
