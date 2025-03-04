@@ -32,11 +32,11 @@ body {
 }
 
 .article-container {
-  background-color: #fff;
+  background-color: rgb(26, 32, 44);
   border-radius: 15px;
 }
 
-.dark .article-container {
+.light .article-container {
   background-color: rgb(31, 39, 51);
 }
 
@@ -45,7 +45,7 @@ body {
   background-color: rgb(247, 250, 252);
 }
 
-.dark .page-footer {
+.light .page-footer {
   background-color: rgb(26, 32, 44);
 }
 
