@@ -7,8 +7,8 @@
 
 # Appearance
 appearance:
-  theme: green
-  theme_day: green
+  theme: custom
+  theme_day: custom
   theme_night:
   color: green
   font: native
