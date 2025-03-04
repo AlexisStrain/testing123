@@ -1,6 +1,32 @@
 // Starter Blog Template
 // https://hugoblox.com/hugo-themes/
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Monaco';
+}
+
+.hero-lead {
+    max-width: 768px;
+    font-size: 1.35rem;
+    font-family: 'Monaco';
+    background: url('./cover_landscape.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+body {
+    font-family: 'Monaco';
+}
+
+.navbar {
+    height: 70px;
+    background: orange;
+    box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
+    font-size: 16.17px;
+    padding: 0 1rem;
+
+
 body {
   background-color: rgb(247, 50, 252);
 }
