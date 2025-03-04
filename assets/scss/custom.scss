@@ -1,25 +1,16 @@
 // Starter Blog Template
 // https://hugoblox.com/hugo-themes/
 
-
-.navbar {
-    height: 70px;
-    background: orange;
-    box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
-    font-size: 16.17px;
-    padding: 0 1rem;
-
-
 body {
   background-color: rgb(247, 50, 252);
 }
 
 .article-container {
-  background-color: rgb(26, 32, 44);
+  background-color: #fff;
   border-radius: 15px;
 }
 
-.light .article-container {
+.dark .article-container {
   background-color: rgb(31, 39, 51);
 }
 
@@ -28,7 +19,7 @@ body {
   background-color: rgb(247, 250, 252);
 }
 
-.light .page-footer {
+.dark .page-footer {
   background-color: rgb(26, 32, 44);
 }
 
