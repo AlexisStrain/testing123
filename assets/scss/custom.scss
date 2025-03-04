@@ -20,140 +20,21 @@
 
 //   }
 
-// https://uxplanet.org/designing-systematic-colors-b5d2605b15c
-$colors: (
-  // bronze
-  bronze: (
-    color-10: hsl(30, 10, 99);
-    color-20: hsl(30, 40, 98);
-    color-30: hsl(30, 70, 90);
-    color-40: hsl(30, 80, 80);
-    color-50: hsl(30, 90, 65);
-    color-60: hsl(30,100, 45);
-    color-70: hsl(30, 95, 40);
-    color-80: hsl(30, 90, 30);
-    color-90: hsl(30, 85, 25);
-    color-00: hsl(30, 80, 20);
-  ),
-  // green
-  green: (
-    color-10: hsl(140, 10, 99);
-    color-20: hsl(140, 40, 98);
-    color-30: hsl(140, 70, 90);
-    color-40: hsl(140, 80, 80);
-    color-50: hsl(140, 90, 65);
-    color-60: hsl(140,100, 45);
-    color-70: hsl(140, 95, 40);
-    color-80: hsl(140, 90, 30);
-    color-90: hsl(140, 85, 25);
-    color-00: hsl(140, 80, 20);
-  ),
-  // Slate
-  slate: (
-    color-10: hsl(205,  5, 99);
-    color-20: hsl(205, 20, 98);
-    color-30: hsl(205, 30, 95);
-    color-40: hsl(205, 40, 90);
-    color-50: hsl(205, 50, 80);
-    color-60: hsl(205, 55, 70);
-    color-70: hsl(205, 60, 60);
-    color-80: hsl(205, 55, 45);
-    color-90: hsl(205, 50, 30);
-    color-00: hsl(205, 40, 20);
-  ),
-  // Blue
-  blue: (
-    color-10: hsl(210,  5, 99);
-    color-20: hsl(210, 25, 98);
-    color-30: hsl(210, 40, 95);
-    color-40: hsl(210, 65, 90);
-    color-50: hsl(210, 85, 80);
-    color-60: hsl(210, 95, 70);
-    color-70: hsl(210, 95, 60);
-    color-80: hsl(210, 95, 45);
-    color-90: hsl(210, 90, 30);
-    color-00: hsl(210, 80, 20);
-  ),
-  // Blue
-  blue: (
-    color-10: hsl(220,  5, 99);
-    color-20: hsl(220, 20, 98);
-    color-30: hsl(220, 30, 97);
-    color-40: hsl(220, 50, 95);
-    color-50: hsl(220, 65, 90);
-    color-60: hsl(220, 80, 85);
-    color-70: hsl(220, 85, 75);
-    color-80: hsl(220, 90, 60);
-    color-90: hsl(220, 85, 45);
-    color-00: hsl(220, 65, 20);
-  ),
-  // indigo
-  indigo: (
-    color-10: hsl(240,  5, 99);
-    color-20: hsl(240, 15, 98);
-    color-30: hsl(240, 25, 97);
-    color-40: hsl(240, 30, 80);
-    color-50: hsl(240, 45, 85);
-    color-60: hsl(240, 55, 90);
-    color-70: hsl(240, 85, 85);
-    color-80: hsl(240, 70, 70);
-    color-90: hsl(240, 70, 50);
-    color-00: hsl(240, 60, 40);
-  ),
-  // Dusk
-  dusk: (
-    color-10: hsl(255,  1, 99);
-    color-20: hsl(255, 10, 98);
-    color-30: hsl(255, 20, 95);
-    color-40: hsl(255, 30, 90);
-    color-50: hsl(255, 35, 80);
-    color-60: hsl(255, 40, 70);
-    color-70: hsl(255, 45, 60);
-    color-80: hsl(255, 50, 45);
-    color-90: hsl(255, 40, 30);
-    color-00: hsl(255, 35, 20);
-  ),
-  // Purple
-  purple: (
-    color-10: hsl(270,  1, 99);
-    color-20: hsl(270, 15, 98);
-    color-30: hsl(270, 25, 95);
-    color-40: hsl(270, 35, 90);
-    color-50: hsl(270, 50, 80);
-    color-60: hsl(270, 60, 70);
-    color-70: hsl(270, 70, 60);
-    color-80: hsl(270, 70, 45);
-    color-90: hsl(270, 70, 30);
-    color-00: hsl(270, 65, 20);
-  ),
-  // magenta
-  magenta: (
-    color-10: hsl(330,  5, 99);
-    color-20: hsl(330, 15, 98);
-    color-30: hsl(330, 30, 95);
-    color-40: hsl(330, 45, 90);
-    color-50: hsl(330, 65, 80);
-    color-60: hsl(330, 85, 70);
-    color-70: hsl(330, 90, 55);
-    color-80: hsl(330, 85, 40);
-    color-90: hsl(330, 80, 30);
-    color-00: hsl(330, 70, 20);
-  ),
-  // red
-  red: (
-    color-10: hsl(360, 10, 99);
-    color-20: hsl(360, 30, 98);
-    color-30: hsl(360, 50, 95);
-    color-40: hsl(360, 70, 90);
-    color-50: hsl(360, 90, 80);
-    color-60: hsl(360,100, 70);
-    color-70: hsl(360, 95, 55);
-    color-80: hsl(360, 90, 40);
-    color-90: hsl(360, 85, 30);
-    color-00: hsl(360, 80, 20);
-  )
-)
 
+
+:root {
+  --color-primary-50: 0 0 244;
+  --color-primary-100: 0 0 231;
+  --color-primary-200: 0 0 208;
+  --color-primary-300: 0 0 172;
+  --color-primary-400: 0 0 128;
+  --color-primary-500: 0 0 94;
+  --color-primary-600: 0 0 74;
+  --color-primary-700: 0 0 61;
+  --color-primary-800: 0 0 52;
+  --color-primary-900: 0 0 45;
+  --color-primary-950: 0 0 22;
+}
 
 .author-highlighted{
 font-weight: bold;
@@ -162,8 +43,8 @@ text-decoration: underline;
 }
 
 .avatar {
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
   }
 
 .portrait-title h2 {
