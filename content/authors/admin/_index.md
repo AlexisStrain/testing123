@@ -26,9 +26,9 @@ interests:
   - ...
 
 education:
-    - Rutgers, The State University of New Jersey: New Brunswick, NJ, US1998-04 to 2001-12 | Postdoctoral Fellow (Biotech center)
-    - Hiroshima University: Hiroshima, JP1993-04 to 1998-03 | Doctor of Agriculture (Biosphere Science)
-    - Hiroshima University: Hiroshima, JP1989-04 to 1993-03 | Bachelor of Agriculture (Applied Biological Science)
+  - Rutgers, The State University of New Jersey: New Brunswick, NJ, US1998-04 to 2001-12 | Postdoctoral Fellow (Biotech center)
+  - Hiroshima University: Hiroshima, JP1993-04 to 1998-03 | Doctor of Agriculture (Biosphere Science)
+  - Hiroshima University: Hiroshima, JP1989-04 to 1993-03 | Bachelor of Agriculture (Applied Biological Science)
     
 
 # Social/Academic Networking
