@@ -9,9 +9,12 @@ body {
   background-color: #F7F7F7;
 }
 
-//.page-body {
-//    padding-inline: 3rem;
-//}
+//custom hover color
+a {
+    color: #3B822E;
+    text-decoration: none;
+    background-color: transparent;
+}
 
 body {
     padding-left: 3rem;  
@@ -88,11 +91,11 @@ ul.network-icon .big-icon {
 }
 
 
-.home-section > .content {
-  width: 45em;
-  max-width: calc(100% - 4em);
-  margin: 3 auto;
-}
+//.home-section > .content {
+//  width: 45em;
+//  max-width: calc(100% - 4em);
+//  margin: 3 auto;
+//}
 
 .home-section > .content > :last-child {
   margin-bottom: 0;
