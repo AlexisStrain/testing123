@@ -1,8 +1,11 @@
 // Starter Blog Template
 // https://hugoblox.com/hugo-themes/
 
+//offwhite : #F7F7F7
+// #light green D5FDBB
+
 body {
-  background-color: #fdffd8;
+  background-color: #F7F7F7;
 }
 
 //header sytle
@@ -11,11 +14,11 @@ body {
 }
 
 .page-body {
-  background-color: #fdffd8;
+  background-color: #F7F7F7;
 }
 
 .article-container {
-  background-color: #fff;
+  background-color: #F7F7F7;
   border-radius: 15px;
 }
 
@@ -42,7 +45,7 @@ body {
 //  box-shadow: none !important; // 'important' to override dark mode box-shadow too.
 //}
 
- .hero-title h1 {
+ .hero-title {
   color: #014504;
   font-weight: bold;
   font-size: 0.9rem;
