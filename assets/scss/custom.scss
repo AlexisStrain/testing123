@@ -6,7 +6,7 @@ body {
 }
 
 .navbar {
-  background-color: #123456; // Change this to your desired color
+  background-color: ##D5FDBB; // Change this to your desired color
 }
 
 
@@ -18,11 +18,6 @@ body {
 .dark .article-container {
   background-color: rgb(31, 39, 51);
 }
-
-.page-header {
-  background-color: rgb(247, 50, 252);
-}
-
 
 // custom footer color
 .page-footer {
@@ -44,9 +39,9 @@ body {
 }
 
 // no navbar shadow
-.navbar {
-  box-shadow: none !important; // 'important' to override dark mode box-shadow too.
-}
+//.navbar {
+//  box-shadow: none !important; // 'important' to override dark mode box-shadow too.
+//}
 
 // custom section padding
 .home-section {
