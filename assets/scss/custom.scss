@@ -9,6 +9,10 @@ body {
   background-color: #F7F7F7;
 }
 
+.page-body {
+    padding-inline: 3rem;
+}
+
 //header sytle
 .navbar {
   background-color: #D5FDBB; 
@@ -37,6 +41,8 @@ body {
 
 // more rounded cards and larger gap between cards
 .card-simple {
+  border: 0px;
+  box-shadow: none;
   margin-top: 1.8rem;
   border-radius: 15px;
 }
