@@ -26,7 +26,7 @@ Notes added by Alexis Strain:
 
 ## To add photos:
 - If you want to add a photo to any page you must first upload you photo to this folder: https://github.com/AlexisStrain/testing123/tree/main/images
-- to add image to a page type: ![alternative image text](/images/image.jpeg) where image.jpeg is the name of the image you want
+- to add image to a page type: `![alternative image text](/images/image.jpeg)` where image.jpeg is the name of the image you want
 
 ## How to add citations:
 - In the folder https://github.com/AlexisStrain/testing123/tree/main, upload a file named publication.bib
@@ -39,7 +39,7 @@ Notes added by Alexis Strain:
 
 
 
-#extra information
+## extra information~~~~
  
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
