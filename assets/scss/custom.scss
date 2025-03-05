@@ -6,17 +6,7 @@
 // medium green 3B822E
 
 body {
-  background-color: #F7F7F7;
-}
-
-//custom hover color
-a {
-    color: #3B822E;
-    text-decoration: none;
-    background-color: transparent;
-}
-
-body {
+    background-color: #F7F7F7;
     padding-left: 3rem;  
     padding-right: 3rem;
 }
@@ -55,9 +45,9 @@ body {
   border-radius: 15px;
 }
 
-.container {
-  max-width: 600px; 
-    }
+//.container {
+//  max-width: 600px; 
+ //   }
 
 
  .hero {
@@ -74,9 +64,9 @@ body {
 }
 
 // custom section padding
-//.home-section {
-//  padding: 1rem 0;
-//}
+.home-section {
+  padding: 1.1rem;
+}
 
 .home-section.wg-about-avatar {
   padding: 0;
