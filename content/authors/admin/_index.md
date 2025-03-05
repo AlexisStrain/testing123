@@ -26,10 +26,16 @@ interests:
   - ...
 
 education:
-  - Rutgers, The State University of New Jersey: New Brunswick, NJ, US1998-04 to 2001-12 | Postdoctoral Fellow (Biotech center)
-  - Hiroshima University: Hiroshima, JP1993-04 to 1998-03 | Doctor of Agriculture (Biosphere Science)
-  - Hiroshima University: Hiroshima, JP1989-04 to 1993-03 | Bachelor of Agriculture (Applied Biological Science)
-    
+  courses:
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
