@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Kato Lab** is interested in cellular responses to enviroment using microalgae and plants. We also protype and produce microalgae-based biodegradable Mardi Gras beads and biomedical products. /n Techniques used in the lab include 3D printing, behavioral cell assays, high-performance liquid chromatography (HPLC), microscopy, modeling software, and PCR. We also participate in field work during the summer.
+        The **Kato Lab** is interested in cellular responses to enviroment using microalgae and plants. We also protype and produce microalgae-based biodegradable Mardi Gras beads and biomedical products. Techniques used in the lab include 3D printing, behavioral cell assays, high-performance liquid chromatography (HPLC), microscopy, modeling software, and PCR. We also participate in field work during the summer.
   
   - block: collection
     content:
