@@ -3,6 +3,7 @@
 
 //offwhite : #F7F7F7
 // #light green D5FDBB
+// medium green 3B822E
 
 body {
   background-color: #F7F7F7;
@@ -52,6 +53,12 @@ body {
   font-size: 0.9rem;
 }
 
+
+.btn {
+    color: #fff;
+    background-color: #3B822E;
+    border-color: #3B822E;
+}
 
 // custom section padding
 .home-section {
