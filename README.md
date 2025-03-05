@@ -1,20 +1,46 @@
 This is the lab website for the Kato Lab. Hosted by HugoBlox.  
 
 Notes added by Alexis Strain:
-Most of website stored in the /Content folder. 99% of editing will occur here.
+## How to edit website:
+- Go to: https://github.com/AlexisStrain/testing123/tree/main/content
+- The first file : https://github.com/AlexisStrain/testing123/blob/main/content/_index.md is the home page information
+- To edit lab member information go to https://github.com/AlexisStrain/testing123/tree/main/content/authors
+  - the admin folder is the PI's page: https://github.com/AlexisStrain/testing123/tree/main/content/authors/admin
+  - Each person has their own folder
+  - Each folder contains an image called avatar.jpeg. this name must not be changed
+  - to add a new person, copy and paste an existing user folder, and then change the information in the new folder
+  - When adding new person they can be placed in one of the following user_groups:
+    - Grad Students Researchers
+    - Undergraduate Researchers
+    - Alumni
+- To edit the research information go to https://github.com/AlexisStrain/testing123/blob/main/content/research/reasearch.md 
+- After editing, click commit changes.
+- a menu will popup and require you to type in a message stating what is being updated
+- The changes will then automatically be added to the website
+- To confirm changes to website URL: "https://alexisstrain.github.io/testing123/"
+- If you do not see changes go to: https://github.com/AlexisStrain/testing123/actions. This is part of the site that manages the website uploads. 
+  - If you see a red x that means the edits had an error. Click x-> build to see what error was
+  - If you see a orange circle the uploads are still being processed
+    
 
-Most of these files are written in something called Markdown
-Any file ending in .md will automatically be added to the website, apprprite links may need to be added to access the added page.
 
-When adding new person they must be placed in one of the following user_groups:
-  - Principal Investigator
-  - Grad Students Researchers
-  - Undergraduate Researchers
-  - Alumni
+## To add photos:
+- If you want to add a photo to any page you must first upload you photo to this folder: https://github.com/AlexisStrain/testing123/tree/main/images
+- to add image to a page type: ![alternative image text](/images/image.jpeg) where image.jpeg is the name of the image you want
 
-to add citations:
-anytime .bib file is added to the main repostiory, it will automatically be added to the webpage. 
+## How to add citations:
+- In the folder https://github.com/AlexisStrain/testing123/tree/main, upload a file named publication.bib
+- This will contain citations in this format separated by  lines, not commas @article{Strain_2024, author = {Strain, Alexis and Kratzberg, Nathan and Vu, Dan and Miller, Emmaline and Wakabayashi, Ken-ichi and Melvin, Adam and Kato, Naohiro}, doi = {10.1101/2024.10.14.618206}, month = {October}, publisher = {Cold Spring Harbor Laboratory}, title = {Membrane-bound Guanylyl Cyclase COP5/HKR1 changes ciliary beat pattern and biases cell steering during chemotaxis in Chlamydomonas reinhardtii}, url = {http://dx.doi.org/10.1101/2024.10.14.618206}, year = {2024} }
+- Publications will be processed and a pull request will be generated here: https://github.com/AlexisStrain/testing123/pulls
+- Approve pull request
+- Go to: https://github.com/AlexisStrain/testing123/tree/main/content/publication
+- Check that all publications have been added. Each publication has it's own folder and can be manually edited now. 
 
+
+
+
+#extra information
+ 
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
 [![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
