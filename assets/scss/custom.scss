@@ -21,7 +21,7 @@ body {
 
 
 .hero-lead {
-    font-size: 0.8rem;
+    font-size: 1.1rem;
 }
 
 // custom footer color
@@ -41,6 +41,12 @@ body {
 //.navbar {
 //  box-shadow: none !important; // 'important' to override dark mode box-shadow too.
 //}
+
+ .hero-title h1 {
+  color: #014504;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
 
 
 // custom section padding
