@@ -5,9 +5,9 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: contact
+  - block: teaching
     content:
-      title: Contact
+      title: teaching
       text: |-
     BIOLOGICAL SCIENCES 3090: Cell Biology
     BIOLOGICAL SCIENCES 4800: Introduction to Systems Biology
