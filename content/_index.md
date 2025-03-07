@@ -14,13 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Kato Lab** investigates cellular responses to environmental factors using microalgae and plants. The lab employs a range of techniques, including 3D printing, light and fluorescence microscopy, bioluminescence analysis, cellular assays, genetic modification, nucleotide and protein analyses, chromatography, and mathematical modeling.
-:
-Beyond fundamental research, the team is actively engaged in applied science. One of their key projects focuses on developing biodegradable Mardi Gras beads using bio-based materials, addressing environmental concerns associated with traditional plastic beads.
-
-Another major initiative aims to establish a microalgae-based industry in Louisiana by converting salt-intruded rice fields into large-scale microalgae cultivation facilities. These microalgae produce medically relevant compounds, which are then extracted and purified for therapeutic applications.
-
-The lab also explores the potential of these natural compounds in treating human diseases, such as asthma, through experiments using cultured human cells and mouse models. 
+        The **Kato Lab** investigates cellular responses to environmental factors using microalgae and plants. The lab employs a range of techniques, including 3D printing, light and fluorescence microscopy, bioluminescence analysis, cellular assays, genetic modification, nucleotide and protein analyses, chromatography, and mathematical modeling.Beyond fundamental research, the team is actively engaged in applied science. One of their key projects focuses on developing biodegradable Mardi Gras beads using bio-based materials, addressing environmental concerns associated with traditional plastic beads.Another major initiative aims to establish a microalgae-based industry in Louisiana by converting salt-intruded rice fields into large-scale microalgae cultivation facilities. These microalgae produce medically relevant compounds, which are then extracted and purified for therapeutic applications. The lab also explores the potential of these natural compounds in treating human diseases, such as asthma, through experiments using cultured human cells and mouse models. 
   
   - block: collection
     content:
