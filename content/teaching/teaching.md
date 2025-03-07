@@ -1,3 +1,5 @@
+title:
+
 
 fede
 Federica Bertocchini is a molecular biologist. She specialized in early embryonic development of vertebrates. After obtaining her PhD at the DIBIT, S. Raphael Hospital, Milan, she specialized in early development of vertebrates, training in the USA (Columbia University, New York, NY) and the UK (University College London, London, UK). She started to work on insects and their capacity to degrade sturdy polymers (Bombelli et al., 2017) and is currently carrying on this line of research at plasticentropy S.L.
